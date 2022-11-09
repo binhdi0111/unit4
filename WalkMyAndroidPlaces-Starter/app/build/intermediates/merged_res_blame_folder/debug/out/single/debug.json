@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\drawable_android_restaurant.jpg.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\drawable\\android_restaurant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\drawable_android_library.jpg.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\drawable\\android_library.jpg"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\animator_rotate.xml.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\animator\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\drawable_android_gym.jpg.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\drawable\\android_gym.jpg"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\drawable_android_school.jpg.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\drawable\\android_school.jpg"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\drawable_android_plain.xml.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\drawable\\android_plain.xml"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.walkmyandroidplaces.app-merged_res-13:/layout-land_activity_main.xml.flat",
+        "source": "com.example.android.walkmyandroidplaces.app-main-15:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-merged_res-13:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\khanh\\.gradle\\daemon\\7.4\\com.example.android.walkmyandroidplaces.app-main-15:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
